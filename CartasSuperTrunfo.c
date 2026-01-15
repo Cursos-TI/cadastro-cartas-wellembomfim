@@ -5,7 +5,7 @@ int main (){
     int população1, pontos1;
     float area1, pib1;
     
-    printf("Desafio Xadrez\n");
+    printf("Desafio Super Trunfo\n");
     printf("CARTA 1\n");
     printf("Digite uma letra para estado\n");
     scanf("%s", estado1);
